@@ -1,8 +1,8 @@
 ### Hi there 👋
 ## Hi 👋, I'm Mateus Maia a Full Stack Developer
-
-### 📫 How to reach me
 <img src="https://c.tenor.com/1chQnZduRjkAAAAM/chuck-norris-approved.gif"/>
+### 📫 How to reach me
+
 [![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Costa-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-maia-fonseca/)](https://www.linkedin.com/in/mateus-maia-fonseca/) [![Gmail Badge](https://img.shields.io/badge/-eng.fonsecamateus@gmail.com-DC4D42?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eng.fonsecamateus@gmail.com)](eng.fonsecamateus@gmail.com) 
 
 ## Languages and Tools
